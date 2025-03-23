@@ -7,7 +7,7 @@ public class Main
     public static void main(String[] args)
     {
         // Initialize infrastructure with API key
-        Infrastructure infrastructure = new Infrastructure("21e13265ba6145ea9f26133530a8668e");
+        Infrastructure infrastructure = new Infrastructure("a426ee21d86b4f70be61a3c9622d7926");
         infrastructure.displayNewsList();
 
         if (infrastructure.getNewsList().isEmpty())
