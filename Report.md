@@ -42,7 +42,7 @@ User Input Validation
 
 ## Authors
 
-- Mahsa Pooresmaeil
+- Nazanin Zahra Fatemi
 
 ## Version History
 
